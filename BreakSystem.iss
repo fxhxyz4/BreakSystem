@@ -1,6 +1,6 @@
 [Setup]
 AppName=BreakSystem
-AppVersion=1.0
+AppVersion=1.0.0
 DefaultDirName={pf}\BreakSystem
 DefaultGroupName=BreakSystem
 OutputDir=.\Installer
