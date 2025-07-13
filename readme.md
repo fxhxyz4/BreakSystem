@@ -4,6 +4,7 @@
 
 Inspired by the Pomodoro technique, it allows you to focus during work sessions and forces you to rest — by making the app the only usable window on the screen during the break.
 
+NOTE: for skip break. use alt + f4
 ---
 
 ## 🚀 Features
